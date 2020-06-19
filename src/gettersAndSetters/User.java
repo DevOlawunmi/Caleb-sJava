@@ -16,5 +16,7 @@ public class User {
     public void setLastName(String ln){
         lastName = ln;
     }
-
+public void fullName (){
+    System.out.println(firstName + " " + lastName);
+}
 }

@@ -6,6 +6,6 @@ User user = new User();
 user.setFirstName("Abolade");
 user.setLastName("Oshodi");
         System.out.println(user.getFirstName() + " " + user.getLastName());
-
+user.fullName();
     }
 }
