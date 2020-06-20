@@ -16,6 +16,7 @@ public class Runner {
         List<User> users = new ArrayList<User>();
         users.add(person2);
         users.add(person3);
-        users.get(1).fullName();
+       // users.get(0).fullName();
+        System.out.println(users.indexOf(person3));;
             }
 }
