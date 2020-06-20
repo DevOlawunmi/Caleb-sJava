@@ -17,6 +17,6 @@ public class User {
         lastName = ln;
     }
 public void fullName (){
-    System.out.println(firstName + " " + lastName);
+    System.out.println(firstName.toUpperCase() + " " + lastName.toUpperCase());
 }
 }
