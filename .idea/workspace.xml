@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71140afd-da19-4da2-b316-1bc9cf8a72a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/gettersAndSetters/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/customArrays/Runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gettersAndSetters/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gettersAndSetters/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/gettersAndSetters/MySweetProgramme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gettersAndSetters/MySweetProgramme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gettersAndSetters/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gettersAndSetters/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Runner">
     <configuration name="MySweetProgramme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gettersAndSetters.MySweetProgramme" />
       <module name="CalebsJava" />
@@ -49,8 +49,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="customArrays.Runner" />
+      <module name="CalebsJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="customArrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Runner" />
         <item itemvalue="Application.MySweetProgramme" />
       </list>
     </recent_temporary>
@@ -92,42 +106,50 @@
       <option name="project" value="LOCAL" />
       <updated>1592537534680</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Getters and Setters Practice">
+      <created>1592621603359</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592621603359</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Getters and Setters Lesson" />
-    <option name="LAST_COMMIT_MESSAGE" value="Getters and Setters Lesson" />
+    <MESSAGE value="Getters and Setters Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Getters and Setters Practice" />
   </component>
   <component name="WindowStateProjectService">
     <state x="523" y="4" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1592535951860">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="523" y="4" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1592535951860" />
-    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1592537534087">
+    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1592621602489">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1592537534087" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1592621560050">
+    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1592621602489" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1592623476074">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592621560050" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1592621560049">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592623476074" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1592623476074">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592621560049" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1592621560048">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592623476074" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1592623476074">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592621560048" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1592621560049">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592623476074" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1592623476074">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592621560049" />
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1592537538403">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592623476074" />
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1592621606491">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592537538403" />
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592621606491" />
     <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1592541744998">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
