@@ -1,5 +1,6 @@
 package customArrays;
 
+
 import gettersAndSetters.User;
 
 import java.util.ArrayList;
@@ -16,7 +17,11 @@ public class Runner {
         List<User> users = new ArrayList<User>();
         users.add(person2);
         users.add(person3);
+
+
+
+
        // users.get(0).fullName();
-        System.out.println(users.indexOf(person3));;
+        System.out.println(users.indexOf(person3));
             }
 }
