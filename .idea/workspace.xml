@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71140afd-da19-4da2-b316-1bc9cf8a72a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/notes/randoms.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gettersAndSetters/MySweetProgramme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gettersAndSetters/MySweetProgramme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gettersAndSetters/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gettersAndSetters/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/notes/randoms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/notes/randoms.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592624996316</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Custom Arrays Lesson">
+      <created>1592885700545</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592885700545</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -139,10 +148,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="523" y="4" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1592535951860" />
-    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1592624995821">
+    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1592885699765">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1592624995821" />
+    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1592885699765" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1592625018188">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -159,10 +168,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592625018188" />
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1592624998558">
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1592885704084">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592624998558" />
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592885704084" />
     <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1592541744998">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

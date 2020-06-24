@@ -3,6 +3,9 @@ package gettersAndSetters;
 public class MySweetProgramme {
     public static void main(String[] args) {
 User person1 = new User();
+//When calling setters, you put in the raw value you want to set.
+        //When calling getters, no value added
+
 person1.setFirstName("Abolade");
 person1.setLastName("Oshodi");
         System.out.println(person1.getFirstName() + " " + person1.getLastName());
