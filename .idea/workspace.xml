@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71140afd-da19-4da2-b316-1bc9cf8a72a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/practise1/IfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practise1/StringComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practise1/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practise1/ForLoopLetterSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +34,33 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.StringComparison">
+  <component name="RunManager" selected="Application.ForLoopLetterSearch">
+    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practise1.ForLoop" />
+      <module name="CalebsJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForLoopLetterSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practise1.ForLoopLetterSearch" />
+      <module name="CalebsJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MySweetProgramme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gettersAndSetters.MySweetProgramme" />
       <module name="CalebsJava" />
@@ -76,6 +102,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForLoopLetterSearch" />
+        <item itemvalue="Application.ForLoop" />
         <item itemvalue="Application.StringComparison" />
         <item itemvalue="Application.MySweetProgramme" />
         <item itemvalue="Application.Runner" />
@@ -161,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592962008774</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="If Statements">
+      <created>1592968187156</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1592968187156</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -169,37 +204,54 @@
     <MESSAGE value="Getters and Setters Practice" />
     <MESSAGE value="Custom Arrays Lesson" />
     <MESSAGE value="Getters and setters notes added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Getters and setters notes added" />
+    <MESSAGE value="If Statements" />
+    <option name="LAST_COMMIT_MESSAGE" value="If Statements" />
   </component>
   <component name="WindowStateProjectService">
     <state x="523" y="4" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1592535951860">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="523" y="4" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1592535951860" />
-    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1592962008016">
+    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1592968186709">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1592962008016" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1592968149140">
+    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1592968186709" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1593055408147">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592968149140" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1592968149140">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593055408147" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1593055408147">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592968149140" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1592968149140">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593055408147" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1593055408147">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592968149140" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1592968149140">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593055408147" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1593055408147">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592968149140" />
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1592962011251">
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593055408147" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1593055408147">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592962011251" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593055408147" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1593055408147">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593055408147" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1593055408147">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593055408147" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1593055408147">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593055408147" />
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1592968189933">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592968189933" />
     <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1592541744998">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -212,5 +264,16 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="209" y="34" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1592541820322" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practise1/ForLoopLetterSearch.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
