@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71140afd-da19-4da2-b316-1bc9cf8a72a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/practise1/ArraysPractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/notes/randoms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/notes/randoms.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +33,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.randoms">
+  <component name="RunManager" selected="Application.ArraysPractice">
+    <configuration name="ArraysPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practise1.ArraysPractice" />
+      <module name="CalebsJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ForLoopCashierProg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practise1.ForLoopCashierProg" />
       <module name="CalebsJava" />
@@ -53,19 +66,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="practise1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MySweetProgramme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gettersAndSetters.MySweetProgramme" />
-      <module name="CalebsJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="gettersAndSetters.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraysPractice" />
         <item itemvalue="Application.randoms" />
         <item itemvalue="Application.ForLoopLetterSearch" />
         <item itemvalue="Application.ForLoopCashierProg" />
         <item itemvalue="Application.StringComparison" />
-        <item itemvalue="Application.MySweetProgramme" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593056253310</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="TAU For Loop added">
+      <created>1593150464659</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1593150464659</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -226,26 +233,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="523" y="4" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1592535951860" />
-    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1593056252566">
+    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1593150464021">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1593056252566" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1593149917242">
+    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1593150464021" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1593929120015">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593149917242" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1593149917241">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593929120015" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1593929120015">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593149917241" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1593149917240">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593929120015" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1593929120014">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593149917240" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1593149917241">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593929120014" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1593929120015">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593149917241" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593929120015" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1593056277813">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -262,10 +269,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593056277813" />
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1593056257140">
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1593150467276">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1593056257140" />
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1593150467276" />
     <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1592541744998">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -278,5 +285,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="209" y="34" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1592541820322" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1593928708866">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1593928708866" />
   </component>
 </project>
