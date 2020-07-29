@@ -1,0 +1,20 @@
+package practise1;
+//Take 2 values from user and print the greater number
+
+import java.util.Scanner;
+
+public class Randoms {
+    public static void main(String[] args) {
+        int a;
+        int b;
+        System.out.println("Enter a number");
+        Scanner scanner = new Scanner(System.in);
+        a = scanner.nextInt();
+        System.out.println("Enter another number");
+       b = scanner.nextInt();
+       if (a>b){
+           System.out.println("The greater number is "+ a);
+       }else System.out.println("The greater number is "+ b);
+
+    }
+}
