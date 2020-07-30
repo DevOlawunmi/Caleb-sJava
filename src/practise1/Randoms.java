@@ -1,5 +1,6 @@
 package practise1;
 //Take 2 values from user and print the greater number
+// source: https://www.codesdope.com/practice/java-decide-if-or-else/
 
 import java.util.Scanner;
 
