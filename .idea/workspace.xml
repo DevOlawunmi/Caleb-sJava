@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71140afd-da19-4da2-b316-1bc9cf8a72a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/practise1/Exercise4IfElse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practise1/Exercise3IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practise1/Exercise3IfElse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Exercise3IfElse">
+  <component name="RunManager" selected="Application.Exercise4IfElse">
     <configuration name="ArraysPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practise1.ArraysPractice" />
       <module name="CalebsJava" />
@@ -73,6 +73,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercise4IfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practise1.Exercise4IfElse" />
+      <module name="CalebsJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Randoms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practise1.Randoms" />
       <module name="CalebsJava" />
@@ -86,26 +99,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="randoms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="notes.randoms" />
-      <module name="CalebsJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="notes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise4IfElse" />
         <item itemvalue="Application.Exercise3IfElse" />
         <item itemvalue="Application.Exercise2IfElse" />
         <item itemvalue="Application.Randoms" />
         <item itemvalue="Application.ArraysPractice" />
-        <item itemvalue="Application.randoms" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596075246047</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Exercise 3 practise questions added">
+      <created>1596076510070</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1596076510070</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -256,33 +263,34 @@
     <MESSAGE value="TAU For Loop added" />
     <MESSAGE value="Practise question added" />
     <MESSAGE value="More practise questions added" />
-    <option name="LAST_COMMIT_MESSAGE" value="More practise questions added" />
+    <MESSAGE value="Exercise 3 practise questions added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 3 practise questions added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="523" y="4" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1592535951860">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="523" y="4" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1592535951860" />
-    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1596075245296">
+    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1596076509316">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596075245296" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1596076418760">
+    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596076509316" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1596077583816">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596076418760" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1596076418760">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596077583816" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1596077583816">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596076418760" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1596076418760">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596077583816" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1596077583816">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596076418760" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1596076418760">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596077583816" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1596077583816">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596076418760" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596077583816" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1593056277813">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -299,10 +307,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593056277813" />
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1596075248773">
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1596076512494">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596075248773" />
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596076512494" />
     <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1592541744998">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
