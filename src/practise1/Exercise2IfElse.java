@@ -16,6 +16,7 @@ public class Exercise2IfElse {
         System.out.println("How many units did you buy");
         Scanner scanner = new Scanner(System.in);
         totalPurchase = scanner.nextInt();
+        scanner.close();
         double total = costPerUnit * totalPurchase ;
         double discount  = 0.10*total;
         if(totalPurchase>minPurchaseForDiscount){
