@@ -10,10 +10,21 @@ f. Above 80 - A
 Ask user to enter marks and print the corresponding grade.
  */
 
+import java.util.Scanner;
+
 public class Exercise3IfElse {
     public static void main(String[] args) {
         int score;
-        if (score>25) System.out.println("You score an F");
-        else if ((score<=25&&score<45)) System.out.println("You score an E");;
+        System.out.println("Please enter your marks");
+        Scanner scanner = new Scanner(System.in);
+        score= scanner.nextInt();
+        scanner.close();
+        if (score<=25) System.out.println("You score an F");
+        else if (score < 45) System.out.println("You score an E");
+        else if (score<50) System.out.println("That's a D");
+        else if (score<60) System.out.println("Good job, you got a C");
+        else if(score<80) System.out.println("Great job, you got a B");
+        else if (score<100) System.out.println("Excellent, you got an A");
+        else System.out.println("Please enter a valid score");
     }
 }

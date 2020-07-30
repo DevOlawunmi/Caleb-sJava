@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71140afd-da19-4da2-b316-1bc9cf8a72a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/practise1/Exercise3IfElse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practise1/Exercise3IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practise1/Exercise3IfElse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Exercise3IfElse">
     <configuration name="ArraysPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practise1.ArraysPractice" />
       <module name="CalebsJava" />
@@ -60,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoopLetterSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practise1.ForLoopLetterSearch" />
+    <configuration name="Exercise3IfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practise1.Exercise3IfElse" />
       <module name="CalebsJava" />
       <extension name="coverage">
         <pattern>
@@ -101,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise3IfElse" />
         <item itemvalue="Application.Exercise2IfElse" />
         <item itemvalue="Application.Randoms" />
         <item itemvalue="Application.ArraysPractice" />
         <item itemvalue="Application.randoms" />
-        <item itemvalue="Application.ForLoopLetterSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596074600701</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="More practise questions added">
+      <created>1596075246047</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1596075246047</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -256,26 +263,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="523" y="4" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1592535951860" />
-    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1596074599868">
+    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1596075245296">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596074599868" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1596074512509">
+    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596075245296" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1596076418760">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596074512509" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1596074512509">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596076418760" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1596076418760">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596074512509" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1596074512509">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596076418760" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1596076418760">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596074512509" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1596074512509">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596076418760" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1596076418760">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596074512509" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596076418760" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1593056277813">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -292,10 +299,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593056277813" />
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1596074603846">
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1596075248773">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596074603846" />
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596075248773" />
     <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1592541744998">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
