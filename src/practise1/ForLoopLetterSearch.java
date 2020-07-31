@@ -13,7 +13,8 @@ public class ForLoopLetterSearch {
 
         boolean letterFound = false;
 
-        //Search text for letter A
+        //Search text for letter A. For this we need to state 1.  Where are we starting from (int i = 0)
+        //2. how long should we go on for ie condition(ie i <text.length) 3. How should we increment or move?(ie i++)
         for(int i=0; i<text.length(); i++){
             char currentLetter = text.charAt(i);
             if(currentLetter == 'A' || currentLetter == 'a'){
