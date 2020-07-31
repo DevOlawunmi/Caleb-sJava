@@ -22,6 +22,10 @@ public class Randoms_WhileStatement {
         /*
             While Statements
             ICU - Initialise, condition, update
+
+            Repetition Structures - Loops
+
+Loops are structures that cause a block of code to repeat.
          */
 
 
