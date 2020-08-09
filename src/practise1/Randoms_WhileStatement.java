@@ -5,7 +5,7 @@ package practise1;
 import java.util.Scanner;
 
 public class Randoms_WhileStatement {
-    public static void main(String[] args) {
+    public static  void main(String[] args) {
 //        int a;
 //        int b;
 //        System.out.println("Enter a number");
@@ -29,5 +29,10 @@ Loops are structures that cause a block of code to repeat.
          */
 
 
+
+
+  }
+  public static void tacos(){
+      System.out.println("Hello tacos");
   }
 }
