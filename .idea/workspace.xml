@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71140afd-da19-4da2-b316-1bc9cf8a72a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/notes/Randoms2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practise1/Randoms_WhileStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practise1/Randoms_WhileStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/notes/Randoms2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/notes/Randoms2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -273,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596164459986</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Revision practise">
+      <created>1596947937182</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1596947937182</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -288,33 +294,34 @@
     <MESSAGE value="Exercise 3 practise questions added" />
     <MESSAGE value="Example 4, more if else practise" />
     <MESSAGE value="For loop letter search updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="For loop letter search updated" />
+    <MESSAGE value="Revision practise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revision practise" />
   </component>
   <component name="WindowStateProjectService">
     <state x="523" y="4" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1592535951860">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="523" y="4" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1592535951860" />
-    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1596164459397">
+    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1596947936582">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596164459397" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1596165011166">
+    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596947936582" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1596950390370">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596165011166" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1596165011165">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596950390370" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1596950390370">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596165011165" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1596165011165">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596950390370" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1596950390370">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596165011165" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1596165011166">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596950390370" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1596950390370">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596165011166" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596950390370" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1593056277813">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -331,10 +338,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593056277813" />
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1596164462186">
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1596947939176">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596164462186" />
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596947939176" />
     <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1592541744998">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
